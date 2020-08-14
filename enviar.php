@@ -14,12 +14,12 @@ $mensaje .= "Su e-mail es: " . $mail . " \r\n";
 $mensaje .= "Mensaje: " . $_POST['message'] . " \r\n";
 $mensaje .= "Enviado el " . date('d/m/Y', time());
 
-$para = 'angelyesidmoro@ufps.edu.co.com';
+$para = 'angelyesidmoro@ufps.edu.co';
 $asunto = $_POST['subject'];
 
 mail($para, $asunto, utf8_decode($mensaje), $header);
 
-header("Location:index.html");
+header("Location:index.php");
 
 
 ?>
