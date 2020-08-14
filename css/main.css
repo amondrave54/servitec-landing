@@ -32,6 +32,11 @@
 	margin-bottom: 20px;
 	display: flex;
 }
+
+.bg-oscuro {
+	background-color: #202020 !important;
+}
+
 .elevate:hover {
 	box-shadow: 5px 5px #999999;
 }

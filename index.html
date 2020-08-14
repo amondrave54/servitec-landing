@@ -96,7 +96,7 @@
 			</div>
 		</div>
 		<nav
-			class="navbar navbar-expand-lg navbar-dark ftco_navbar ftco-navbar-light"
+			class="navbar navbar-expand-lg navbar-dark ftco_navbar ftco-navbar-light sticky-top"
 			id="ftco-navbar"
 		>
 			<div class="container">
@@ -120,21 +120,23 @@
 				<div class="collapse navbar-collapse" id="ftco-nav">
 					<ul class="navbar-nav mr-auto">
 						<li class="nav-item active">
-							<a href="index.html" class="nav-link">Inicio</a>
+							<a data-scroll href="#inicio" class="nav-link">Inicio</a>
 						</li>
-						<li class="nav-item"><a href="#" class="nav-link">Conocenos</a></li>
-						<li class="nav-item">
-							<a href="#" class="nav-link">Portafolio</a>
+						<li data-scroll class="nav-item">
+							<a href="#conocenos" class="nav-link">Conocenos</a>
 						</li>
 						<li class="nav-item">
-							<a href="#" class="nav-link">Contacto</a>
+							<a data-scroll href="#portafolio" class="nav-link">Portafolio</a>
+						</li>
+						<li class="nav-item">
+							<a data-scroll href="#contacto" class="nav-link">Contacto</a>
 						</li>
 					</ul>
 				</div>
 			</div>
 		</nav>
 		<!-- END nav -->
-		<section class="ftco-section ftco-no-pt">
+		<section class="ftco-section ftco-no-pt" id="inicio">
 			<div
 				id="carouselExampleFade"
 				class="carousel slide carousel-fade"
@@ -194,7 +196,7 @@
 			</div>
 		</section>
 		<!--Fin de slider de pruebas-->
-		<section class="ftco-section ftco-no-pt ftco-no-pb bg-light">
+		<section class="ftco-section ftco-no-pt ftco-no-pb bg-light" id="conocenos">
 			<div class="container">
 				<div class="row d-flex no-gutters">
 					<div class="col-md-6 d-flex">
@@ -224,12 +226,20 @@
 								<div class="tabulation-2 mt-4">
 									<ul class="nav nav-pills nav-fill d-md-flex d-block">
 										<li class="nav-item mb-md-0 mb-2">
-											<a class="nav-link active py-2" data-toggle="tab" href="#home1"
+											<a
+												class="nav-link active py-2"
+												data-toggle="tab"
+												href="#home1"
+												data-scroll-ignore=""
 												>Competitividad</a
 											>
 										</li>
 										<li class="nav-item px-lg-2 mb-md-0 mb-2">
-											<a class="nav-link py-2" data-toggle="tab" href="#home2"
+											<a
+												class="nav-link py-2"
+												data-toggle="tab"
+												href="#home2"
+												data-scroll-ignore
 												>Rentabilidad</a
 											>
 										</li>
@@ -238,6 +248,7 @@
 												class="nav-link py-2 mb-md-0 mb-2"
 												data-toggle="tab"
 												href="#home3"
+												data-scroll-ignore
 												>Responsabilidad</a
 											>
 										</li>
@@ -513,7 +524,7 @@
 			</div>
 		</section>
 
-		<section class="ftco-section">
+		<section class="ftco-section" id="portafolio">
 			<div class="container">
 				<div class="row justify-content-center pb-5 mb-3">
 					<div
@@ -537,7 +548,7 @@
 											to additional content. This content is a little bit longer
 										</p>
 										<p class="card-text">
-											<a href="#" class="btn btn-primary">Ver más</a>
+											<a href="html/seguridad.html" class="btn btn-primary">Ver más</a>
 										</p>
 									</div>
 								</div>
@@ -558,7 +569,7 @@
 											to additional content. This content is a little bit longer.
 										</p>
 										<p class="card-text">
-											<a href="#" class="btn btn-primary">Ver más</a>
+											<a href="html/cableado.html" class="btn btn-primary">Ver más</a>
 										</p>
 									</div>
 								</div>
@@ -602,7 +613,7 @@
 											to additional content. This content is a little bit longer.
 										</p>
 										<p class="card-text">
-											<a href="#" class="btn btn-primary">Ver más</a>
+											<a href="html/hardware.html" class="btn btn-primary">Ver más</a>
 										</p>
 									</div>
 								</div>
@@ -623,7 +634,7 @@
 											to additional content. This content is a little bit longer.
 										</p>
 										<p class="card-text">
-											<a href="#" class="btn btn-primary">Ver más</a>
+											<a href="html/ups.html" class="btn btn-primary">Ver más</a>
 										</p>
 									</div>
 								</div>
@@ -634,7 +645,7 @@
 			</div>
 		</section>
 
-		<section class="slider-servitec-seccion">
+		<section class="slider-servitec-seccion bg-oscuro">
 			<div class="container">
 				<div class="row justify-content-center">
 					<div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
@@ -657,7 +668,7 @@
 									</div>
 									<div class="col-2">
 										<img
-											src="images/marcas/marca_midea1.png"
+											src="images/marcas/marca_midea.png"
 											alt=""
 											class="d-block w-80"
 										/>
@@ -671,14 +682,14 @@
 									</div>
 									<div class="col-2">
 										<img
-											src="images/marcas/marca_midea1.png"
+											src="images/marcas/marca_midea.png"
 											alt=""
 											class="d-block w-80"
 										/>
 									</div>
 									<div class="col-2">
 										<img
-											src="images/marcas/otras_marcas/marca_samsung.png"
+											src="images/marcas/marca_nexans.png"
 											alt=""
 											class="d-block w-80"
 										/>
@@ -710,21 +721,21 @@
 									</div>
 									<div class="col-2">
 										<img
-											src="images/marcas/otras_marcas/marca_lg.png"
+											src="images/marcas/marca_hikvision.png"
 											alt=""
 											class="d-block w-80"
 										/>
 									</div>
 									<div class="col-2">
 										<img
-											src="images/marcas/marca_midea1.png"
+											src="images/marcas/marca_midea.png"
 											alt=""
 											class="d-block w-80"
 										/>
 									</div>
 									<div class="col-2">
 										<img
-											src="images/marcas/otras_marcas/marca_samsung.png"
+											src="images/marcas/marca_condumex.png"
 											alt=""
 											class="d-block w-80"
 										/>
@@ -737,7 +748,7 @@
 			</div>
 		</section>
 
-		<section class="ftco-section bg-light">
+		<section class="ftco-section bg-light" id="contacto">
 			<div class="container">
 				<div class="row justify-content-center">
 					<div class="col-md-12">
@@ -1025,6 +1036,9 @@
 		<script src="js/owl.carousel.min.js"></script>
 		<script src="js/jquery.magnific-popup.min.js"></script>
 		<script src="js/scrollax.min.js"></script>
+		<!-- Get minor updates and patch fixes within a major version -->
+		<script src="https://cdn.jsdelivr.net/gh/cferdinandi/smooth-scroll@15/dist/smooth-scroll.polyfills.min.js"></script>
+		<script src="js/slider-side.js"></script>
 		<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
 		<script src="js/google-map.js"></script>
 		<script src="js/main.js"></script>
