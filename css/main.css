@@ -62,8 +62,7 @@
 	width: 170px;
 }
 
-.insta {
-}
+
 .text-insta {
 	size: 22px;
 	line-height: 1.8;
@@ -77,4 +76,8 @@
 .img-foot {
 	height: 110px;
 	width: 210px;
+}
+
+.arr{
+	color: black !important;
 }
