@@ -1,15 +1,22 @@
 <!-- @format -->
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es-CO">
 
 <head>
-	<title>Servitec Ingenieros SAS</title>
+	
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+	<title>Servitec Ingenieros SAS</title>
+	<meta name="description" content="Brindamos la prestación de servicio técnico especializado, comercialización, instalación y mantenimiento de UPS's, cableado estructurado, redes eléctricas, sistemas CCTV, aire acondicionado, detección de incendios, entre otras cosas. " />
 
+	<meta name="robots" content="index,follow" />
+	<meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	
 	<link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800,900&display=swap"
 		rel="stylesheet" />
+	<link rel="shortcut icon" href="images/servitec_ico.ico">	
 
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
 	<link rel="stylesheet" href="css/main.css" />
@@ -61,7 +68,7 @@
 						<div class="col-md-3 d-flex justify-content-end align-items-center">
 							<div class="social-media">
 								<p class="mb-0 d-flex">
-									<a href="https://www.facebook.com/Servitec-Ingenieros-SAS-103271744875474"
+									<a href="https://www.facebook.com/servitec.ingenieros.sas/"
 										class="d-flex align-items-center justify-content-center"><span
 											class="fa fa-facebook"><i class="sr-only">Facebook</i></span></a>
 									<a href="https://twitter.com/ServitecIngeni1"
@@ -256,84 +263,8 @@
 		</div>
 	</section>
 
+	<section class="ftco-section ftco-no-pt bg-ligth" id="sede">
 
-
-	<section class="ftco-section testimony-section bg-light">
-		<div class="container">
-			<div class="row justify-content-center pb-5 mb-3">
-				<div class="col-md-7 heading-section heading-section-white text-center ftco-animate">
-					<span class="subheading">Testimonios</span>
-					<h2>Clientes Felices</h2>
-				</div>
-			</div>
-			<div class="row ftco-animate">
-				<div class="col-md-12">
-					<div class="carousel-testimony owl-carousel ftco-owl">
-						<div class="item">
-							<div class="testimony-wrap py-4">
-								<div class="icon d-flex align-items-center justify-content-center">
-									<span class="fa fa-quote-left"></span>
-								</div>
-								<div class="text">
-									<p class="mb-4">
-										Muy buena atención al cliente, transmiten esa confianza que uno
-										necesita a la hora de adquirir un servicio
-									</p>
-									Feedbacks
-									<div class="d-flex align-items-center">
-										<div class="user-img" style="background-image: url(images/person_1.jpg);"></div>
-										<div class="pl-3">
-											<p class="name">Joimar Mendoza</p>
-											<span class="position">Diseñador</span>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="item">
-							<div class="testimony-wrap py-4">
-								<div class="icon d-flex align-items-center justify-content-center">
-									<span class="fa fa-quote-left"></span>
-								</div>
-								<div class="text">
-									<p class="mb-4">
-										Son una empresa muy responsable con todo lo que hacen, siempre
-										demostrando su toque de calidad
-									</p>
-									<div class="d-flex align-items-center">
-										<div class="user-img" style="background-image: url(images/person_2.jpg);"></div>
-										<div class="pl-3">
-											<p class="name">Angel Mondragón</p>
-											<span class="position">Desarrollador</span>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="item">
-							<div class="testimony-wrap py-4">
-								<div class="icon d-flex align-items-center justify-content-center">
-									<span class="fa fa-quote-left"></span>
-								</div>
-								<div class="text">
-									<p class="mb-4">
-										Una empresa comprometida con el desarrollo de la región,
-										contribuyendo siempre con la innovación del departamento
-									</p>
-									<div class="d-flex align-items-center">
-										<div class="user-img" style="background-image: url(images/person_3.jpg);"></div>
-										<div class="pl-3">
-											<p class="name">Julian Navarro</p>
-											<span class="position">Experto en tecnología</span>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
 	</section>
 
 	<section class="ftco-section" id="portafolio">
