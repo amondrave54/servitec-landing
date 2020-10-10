@@ -13,7 +13,7 @@
 	<meta name="robots" content="index,follow" />
 	<meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
 	<meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-	
+
 	<link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800,900&display=swap"
 		rel="stylesheet" />
 	<link rel="shortcut icon" href="images/servitec_ico.ico">	
@@ -122,7 +122,7 @@
 		<div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel">
 			<div class="carousel-inner">
 				<div class="carousel-item active imga">
-					<img src="images/banners/banner_acceso.png" class="d-block w-100 imga" alt="..." />
+					<img src="images/banners/nuevo.jpg" class="d-block w-100 imga" alt="..." />
 				</div>
 				<div class="carousel-item imga">
 					<img src="images/banners/banner_cctv.png" class="d-block w-100 imga" alt="..." />
