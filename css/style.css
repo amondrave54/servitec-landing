@@ -9747,16 +9747,16 @@ h5,
   height: 30px;
   border-radius: 50%;
   margin-right: 4px;
-  background: rgba(255, 255, 255, 0.1);
-}
-.social-media p a span {
-  color: white;
-}
-.social-media p a:hover {
   background: #094293;
 }
-.social-media p a:hover span {
+.social-media p a span {
   color: #fff;
+}
+.social-media p a:hover {
+  background: white;
+}
+.social-media p a:hover span {
+  color: #094293;
 }
 
 .searchform {
@@ -10269,7 +10269,7 @@ h5,
 }
 @media (max-width: 767.98px) {
   .img-video {
-    height: 400px;
+    height: 1000px;
   }
 }
 

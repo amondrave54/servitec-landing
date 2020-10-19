@@ -54,7 +54,7 @@
 }
 
 .tam {
-	height: 80px !important;
+	height: 100px !important;
 }
 
 .logot {
@@ -80,4 +80,7 @@
 
 .arr{
 	color: black !important;
+}
+.tam{
+	background-color: #f8f9fd!important;
 }

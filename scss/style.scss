@@ -264,14 +264,14 @@ h5,
 			height: 30px;
 			border-radius: 50%;
 			margin-right: 4px;
-			background: rgba(255, 255, 255, 0.1);
+			background: $primary;
 			span {
-				color: white;
+				color: $white;
 			}
 			&:hover {
-				background: $primary;
+				background: white;
 				span {
-					color: $white;
+					color: $primary;
 				}
 			}
 		}
@@ -779,7 +779,7 @@ h5,
 .img-video {
 	background-position: top center !important;
 	@include media-breakpoint-down(sm) {
-		height: 400px;
+		height: 1000px;
 	}
 }
 .icon-video {

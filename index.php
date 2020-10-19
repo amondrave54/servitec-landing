@@ -40,7 +40,7 @@
 			<div class="row justify-content-between">
 				<div class="col-md-3 d-flex align-items-center">
 					<a class="navbar-brand" href="index.html">
-						<img src="images/logotipo_servitec.png" alt="" class="logot" />
+						<img src="images/imagotipo_transparente.png" alt="" class="logot" />
 					</a>
 				</div>
 				<div class="col-md-7">
@@ -51,7 +51,7 @@
 									<span class="fa fa-location-arrow"></span>
 								</div>
 								<div class="text">
-									<span>Dirección</span><span>Av 6 # 14-16 Cúcuta</span>
+									<span>Dirección</span><span>Calle 6 N°  6E-131 Quinta Oriental, Cúcuta</span>
 								</div>
 							</div>
 						</div>
@@ -61,7 +61,7 @@
 									<span class="fa fa-location-arrow"></span>
 								</div>
 								<div class="text">
-									<span>Contáctenos: </span><span>+57 7 5727234 </span>
+									<span>Contáctenos: </span><span>+57 315 38 04 018 </span>
 								</div>
 							</div>
 						</div>
@@ -76,7 +76,7 @@
 											class="fa fa-twitter"><i class="sr-only">Twitter</i></span></a>
 									<a href="https://www.instagram.com/servitec_ingenieros/?hl=es-la"
 										class="d-flex align-items-center justify-content-center"><span
-											class="fa fa-instagram"><i class="sr-only">Instagram</i></span></a>
+										class="fa fa-instagram"><i class="sr-only">Instagram</i></span></a>
 									<a href="#" class="d-flex align-items-center justify-content-center"><span
 											class="fa fa-map-marker"><i class="sr-only">Dribbble</i></span></a>
 								</p>
@@ -87,7 +87,7 @@
 			</div>
 		</div>
 	</div>
-	<nav class="navbar navbar-expand-lg navbar-dark ftco_navbar ftco-navbar-light sticky-top" id="ftco-navbar">
+	<nav class="navbar navbar-expand-lg navbar-light ftco_navbar ftco-navbar-light sticky-top" id="ftco-navbar">
 		<div class="container">
 			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav"
 				aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
@@ -134,7 +134,7 @@
 					<img src="images/banners/banner_ups.png" alt="" class="d-block w-100 imga" />
 				</div>
 				<div class="carousel-item imga">
-					<img src="images/banners/banner_electrico.png" alt="" class="d-block w-100 imga" />
+					<img src="images/banners/nuevo2.jpg" alt="" class="d-block w-100 imga" />
 				</div>
 			</div>
 			<a class="carousel-control-prev" href="#carouselExampleFade" role="button" data-slide="prev"
@@ -151,11 +151,11 @@
 	</section>
 	<!--Fin de slider de pruebas-->
 	<section class="ftco-section ftco-no-pt ftco-no-pb bg-light" id="conocenos">
-		<div class="container">
+		<div class="container hg">
 			<div class="row d-flex no-gutters">
 				<div class="col-md-6 d-flex">
-					<div class="img img-video d-flex align-self-stretch align-items-center justify-content-center mb-4 mb-sm-0"
-						style="background-image: url(images/banner_certificacion.jpg);"></div>
+					<div class="ban img img-video d-flex align-self-stretch align-items-center justify-content-center mb-4 mb-sm-0"
+						style="background-image: url(images/calidad.png);"></div>
 				</div>
 				<div class="col-md-6 pl-md-5">
 					<div class="row justify-content-start py-5">
@@ -498,7 +498,7 @@
 										<div class="text pl-3">
 											<p>
 												<span>Dirección:</span>
-												Av 6 # 14-16 Cucuta, Norte De Santander, Colombia
+												Calle 6 N° 6E-131 Quinta Oriental Cúcuta, Norte De Santander, Colombia
 											</p>
 										</div>
 									</div>
@@ -510,7 +510,7 @@
 											<p>
 												<span>Telefonos:</span>
 												<a href="tel://1234567920">
-													+57 7 5727234 - +57 3177457899 - +57 3177453708</a>
+													+57 7 5727234 - +57 317 74 57 899 - +57 315 38 04 018 </a>
 											</p>
 										</div>
 									</div>
@@ -604,12 +604,14 @@
 							<ul>
 								<li>
 									<span class="icon fa fa-map-marker"></span><span class="text">
-										Av 6 # 14-16 Cucuta, Norte De Santander, Colombia
+									Calle 6 N° 6E-131 Quinta Oriental Cúcuta, Norte De Santander, Colombia
 									</span>
 								</li>
 								<li>
-									<a href="#"><span class="icon fa fa-phone"></span><span class="text">+57 3177457899
-										</span></a>
+									<a href="#"><span class="icon fa fa-phone"></span><span class="text">+57 315 38 04 018 
+									</span></a>
+									<a href="#"><span class="icon fa fa-phone"></span><span class="text">+57 317 74 57 899
+									</span></a>
 								</li>
 								<li>
 									<a href="#"><span class="icon fa fa-paper-plane"></span><span
