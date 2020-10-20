@@ -1,8 +1,8 @@
-Thank you for using our template!
+Errores
 
-For more awesome templates please visit https://colorlib.com/wp/templates/
+Primera cintilla en donde se encuentra el logo y los iconos de redes sociales no esta responsivo
 
-Copyright information for the template can't be altered/removed unless you purchase a license.
-More information about the license is available here: https://colorlib.com/wp/licence/
+Se debe cambiar el tamaño del contenedor del Slider princiapl para poder visualizar bien los banners
 
-Removing copyright information without the license will result in suspension of your hosting and/or domain name(s).
+
+La sección de conocenos no esta responsiva se debe organizar mejor
