@@ -1,86 +1,114 @@
-/** @format */
-@font-face {
-	font-family: roboto-medium;
-	src: url('../fonts/roboto/Roboto-Medium.ttf') format('truetype');
-}
-
-@font-face {
-	font-family: roboto-bold;
-	src: url('../fonts/roboto/Roboto-Bold.ttf') format('truetype');
-}
-
-.descarga {
-	text-decoration: underline;
-}
-
-.titulo-1 {
-	color: black;
-	size: 3em;
-}
-
-.parrafo {
-	size: 18px;
-	color: black !important;
-	opacity: 75%;
-}
-
-.slider-servitec-seccion {
-	background-color: #f8f9fd;
-	width: 100%;
-	height: 150px;
-	border: 2px;
-	margin-bottom: 20px;
-	display: flex;
-}
-
-.bg-oscuro {
-	background-color: #202020 !important;
-}
-
-.elevate:hover {
-	box-shadow: 5px 5px #999999;
-}
-
-.top-sg {
-	margin-top: 30px;
-}
-
-.w-80 {
-	width: 80% !important;
-}
-
-.imga {
-	height: 500px !important;
-}
-
-.tam {
-	height: 100px !important;
-}
-
-.logot {
-	height: 45px;
-	width: 170px;
-}
-
-
-.text-insta {
-	size: 22px;
-	line-height: 1.8;
-	font-weight: 400;
-	color: black;
-	margin-right: 20px;
-	margin-top: 10px;
-	font-family: 'Poppins', Arial, sans-serif;
-}
-
-.img-foot {
-	height: 110px;
-	width: 210px;
-}
-
-.arr{
-	color: black !important;
-}
-.tam{
-	background-color: #f8f9fd!important;
-}
+    /** @format */
+    
+    @font-face {
+        font-family: roboto-medium;
+        src: url('../fonts/roboto/Roboto-Medium.ttf') format('truetype');
+    }
+    
+    @font-face {
+        font-family: roboto-bold;
+        src: url('../fonts/roboto/Roboto-Bold.ttf') format('truetype');
+    }
+    
+    .descarga {
+        text-decoration: underline;
+    }
+    
+    .titulo-1 {
+        color: black;
+        size: 3em;
+    }
+    
+    .parrafo {
+        size: 18px;
+        color: black !important;
+        opacity: 75%;
+    }
+    
+    .slider-servitec-seccion {
+        background-color: #f8f9fd;
+        width: 100%;
+        height: 150px;
+        border: 2px;
+        margin-bottom: 20px;
+        display: flex;
+    }
+    
+    .bg-oscuro {
+        background-color: #202020 !important;
+    }
+    
+    .elevate:hover {
+        box-shadow: 5px 5px #999999;
+    }
+    
+    .top-sg {
+        margin-top: 30px;
+    }
+    
+    .w-80 {
+        width: 80% !important;
+    }
+    
+    .imga {
+        height: 500px !important;
+    }
+    
+    .tam {
+        height: 100px !important;
+    }
+    
+    .logot {
+        height: 45px;
+        width: 170px;
+    }
+    
+    .text-insta {
+        size: 22px;
+        line-height: 1.8;
+        font-weight: 400;
+        color: black;
+        margin-right: 20px;
+        margin-top: 10px;
+        font-family: 'Poppins', Arial, sans-serif;
+    }
+    
+    .img-foot {
+        height: 110px;
+        width: 210px;
+    }
+    
+    .arr {
+        color: black !important;
+    }
+    
+    .tam {
+        background-color: #f8f9fd!important;
+    }
+    
+    @media screen and (max-device-width: 480px) {
+        #quitar {
+            display: none;
+        }
+        #inicio {
+            width: auto;
+            height: auto;
+            padding-bottom: 50px;
+            max-width: 100%;
+        }
+        #fondo {
+            height: 100%;
+            width: 100%;
+            text-align: center;
+        }
+        #conocenos {
+            width: 100%;
+        }
+        .slider-servitec-seccion,
+        .carousel-inner,
+        .carousel-item {
+            height: 150px;
+            width: 1150px;
+            margin: auto;
+        }
+    }
