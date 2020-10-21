@@ -74,7 +74,7 @@
 											class="fa fa-twitter"><i class="sr-only">Twitter</i></span></a>
                                     <a href="https://www.instagram.com/servitec_ingenieros/?hl=es-la" class="d-flex align-items-center justify-content-center"><span
 										class="fa fa-instagram"><i class="sr-only">Instagram</i></span></a>
-                                    <a href="#" class="d-flex align-items-center justify-content-center"><span
+                                    <a href="https://goo.gl/maps/vXeUdzTMZsB1qu257" class="d-flex align-items-center justify-content-center"><span
 											class="fa fa-map-marker"><i class="sr-only">Dribbble</i></span></a>
                                 </p>
                             </div>
@@ -130,7 +130,7 @@
                     <img src="images/banners/banner_ups.png" alt="" class="d-block w-100 imga" />
                 </div>
                 <div class="carousel-item imga">
-                    <img src="images/banners/nuevo2.jpg" alt="" class="d-block w-100 imga" />
+                    <img src="images/banners/nuevo2.png" alt="" class="d-block w-100 imga" />
                 </div>
             </div>
             <a class="carousel-control-prev" href="#carouselExampleFade" role="button" data-slide="prev" data-scroll-ignore>
@@ -148,7 +148,7 @@
         <div class="container hg">
             <div class="row d-flex no-gutters">
                 <div class="col-md-6 d-flex" id="fondo">
-                    <div class="ban img img-video d-flex align-self-stretch align-items-center justify-content-center mb-4 mb-sm-0" style="background-image: url(images/calidad.png);"></div>
+                    <div class="ban img img-video d-flex align-self-stretch align-items-center justify-content-center mb-4 mb-sm-0" style="background-image: url(images/certificacion.png);"></div>
                 </div>
                 <div class="col-md-6 pl-md-5">
                     <div class="row justify-content-start py-5">
@@ -285,7 +285,7 @@
                             </div>
                             <div class="col-md-8">
                                 <div class="card-body">
-                                    <h5 class="card-title">Cableado estructurado de redes electricas</h5>
+                                    <h5 class="card-title">Cableado estructurado y redes electricas</h5>
                                     <p class="card-text">
                                         Cableado para el interior de un edificio, organizando el futuro de una red de área local, variado en diferentes tipos y combinaciones.
                                     </p>
@@ -506,8 +506,7 @@
         </div>
         <br /><br />
         <div class="row justify-content-center">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31615.387123305307!2d-72.49536033123677!3d7.903072485622042!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e66450c50463ff5%3A0x86d09390fec377a!2sCl.%206%20%237%20Este-196%20a%207%20Este-10%2C%20C%C3%BAcuta%2C%20Norte%20de%20Santander!5e0!3m2!1ses!2sco!4v1601139742446!5m2!1ses!2sco"
-                width="1100" height="250" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+            <<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31615.338152423246!2d-72.4953603312365!3d7.903711785593321!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e66450c50463ff5%3A0x86d09390fec377a!2sCl.%206%20%237%20Este-196%20a%207%20Este-10%2C%20C%C3%BAcuta%2C%20Norte%20de%20Santander!5e0!3m2!1ses!2sco!4v1603303093534!5m2!1ses!2sco" width="1100" height="250" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
         </div>
     </section>
 
