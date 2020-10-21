@@ -265,7 +265,7 @@
                             </div>
                             <div class="col-md-8">
                                 <div class="card-body">
-                                    <h5 class="card-title">Sistemas CCTV</h5>
+                                    <h5 class="card-title">Sistemas de seguridad</h5>
                                     <p class="card-text">
                                         Visualización y grabación de actividades con cámara de video, asociadas a sistemas de administración y almacenamiento permitiendo gestión local y remota de imágenes mediante tecnologías de comunicación.
                                     </p>
@@ -285,7 +285,7 @@
                             </div>
                             <div class="col-md-8">
                                 <div class="card-body">
-                                    <h5 class="card-title">Cableado Estructurado Y Redes Electricas</h5>
+                                    <h5 class="card-title">Cableado estructurado de redes electricas</h5>
                                     <p class="card-text">
                                         Cableado para el interior de un edificio, organizando el futuro de una red de área local, variado en diferentes tipos y combinaciones.
                                     </p>
@@ -305,7 +305,7 @@
                             </div>
                             <div class="col-md-8">
                                 <div class="card-body">
-                                    <h5 class="card-title">Aires Acondicionados</h5>
+                                    <h5 class="card-title">Aires acondicionados</h5>
                                     <p class="card-text">
                                         Sistemas de aire acondicionado que permite variar la temperatura de espacios, al tiempo que lo deshumidifica, agregando comodidad y confort
                                     </p>
@@ -327,7 +327,7 @@
                             </div>
                             <div class="col-md-8">
                                 <div class="card-body">
-                                    <h5 class="card-title">Hardware y Software</h5>
+                                    <h5 class="card-title">Servicio técnico</h5>
                                     <p class="card-text">
                                         Impresoras, routers, tarjetas de red y demás dispositivos electronicos, además de licencias de software.
                                     </p>
