@@ -39,7 +39,7 @@
         <div class="container">
             <div class="row justify-content-between">
                 <div class="col-md-3 d-flex align-items-center" class="imagen">
-                    <a class="navbar-brand" href="index.html">
+                    <a class="navbar-brand" href="index.php">
                         <img src="images/imagotipo_transparente.png" alt="" class="logot" />
                     </a>
                 </div>
@@ -124,10 +124,10 @@
                     <img src="images/banners/banner_cctv.png" class="d-block w-100  img-fluid" alt="..." />
                 </div>
                 <div class="carousel-item ">
-                    <img src="images/banners/banner_aires.png" class="d-block w-100  img-fluid" alt="..." />
+                    <img src="images/banners/aire.png" class="d-block w-100  img-fluid" alt="..." />
                 </div>
                 <div class="carousel-item ">
-                    <img src="images/banners/banner_ups.png" alt="" class="d-block w-100  img-fluid" />
+                    <img src="images/banners/ups.png" alt="" class="d-block w-100  img-fluid" />
                 </div>
                 <div class="carousel-item ">
                     <img src="images/banners/nuevo2.png" alt="" class="d-block w-100  img-fluid" />
@@ -267,7 +267,7 @@
                                 <div class="card-body">
                                     <h5 class="card-title">Sistemas de seguridad</h5>
                                     <p class="card-text">
-                                        Visualización y grabación de actividades con cámara de video, asociadas a sistemas de administración y almacenamiento permitiendo gestión local y remota de imágenes mediante tecnologías de comunicación.
+                                    Visualización y grabación de actividades con cámara de video, sistemas de administración y almacenamiento con gestión local y remota de imágenes con tecnologías de comunicación.
                                     </p>
                                     <p class="card-text">
                                         <a href="html/seguridad.html" class="btn btn-primary">Ver más</a>
