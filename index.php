@@ -51,11 +51,11 @@
                                     <span class="fa fa-location-arrow"></span>
                                 </div>
                                 <div class="text">
-                                    <span>Dirección</span><span>Calle 6 N°  6E-131 Quinta Oriental, Cúcuta</span>
+                                    <span>Dirección Calle 6 N° 6E-131</span><span>Quinta Oriental</span>
                                 </div>
                             </div>
                         </div>
-                        <div class="col">
+                        <div class="col-md-4">
                             <div class="top-wrap d-flex">
                                 <div class="icon d-flex align-items-center justify-content-center">
                                     <span class="fa fa-location-arrow"></span>
@@ -117,20 +117,20 @@
     <section class="ftco-section ftco-no-pt" id="inicio">
         <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel">
             <div class="carousel-inner">
-                <div class="carousel-item active imga">
-                    <img src="images/banners/nuevo.jpg" class="d-block w-100 imga" alt="..." />
+                <div class="carousel-item active ">
+                    <img src="images/banners/banner_acceso.png" class="d-block w-100  img-fluid" alt="..." />
                 </div>
-                <div class="carousel-item imga">
-                    <img src="images/banners/banner_cctv.png" class="d-block w-100 imga" alt="..." />
+                <div class="carousel-item ">
+                    <img src="images/banners/banner_cctv.png" class="d-block w-100  img-fluid" alt="..." />
                 </div>
-                <div class="carousel-item imga">
-                    <img src="images/banners/banner_aires.png" class="d-block w-100 imga" alt="..." />
+                <div class="carousel-item ">
+                    <img src="images/banners/banner_aires.png" class="d-block w-100  img-fluid" alt="..." />
                 </div>
-                <div class="carousel-item imga">
-                    <img src="images/banners/banner_ups.png" alt="" class="d-block w-100 imga" />
+                <div class="carousel-item ">
+                    <img src="images/banners/banner_ups.png" alt="" class="d-block w-100  img-fluid" />
                 </div>
-                <div class="carousel-item imga">
-                    <img src="images/banners/nuevo2.png" alt="" class="d-block w-100 imga" />
+                <div class="carousel-item ">
+                    <img src="images/banners/nuevo2.png" alt="" class="d-block w-100  img-fluid" />
                 </div>
             </div>
             <a class="carousel-control-prev" href="#carouselExampleFade" role="button" data-slide="prev" data-scroll-ignore>
@@ -155,7 +155,7 @@
                         <div class="col-md-12 heading-section ftco-animate">
                             <span class="subheading">Bienvenido a Servitec Ingenieros S.A.S</span>
                             <h2 class="mb-4">
-                                Contamos con más de 20 años ofreciendo atención, productos y servicios de alta calidad.
+                                Contamos con 23 años de experiencia  ofreciendo atención, productos y servicios de alta calidad.
                             </h2>
                             <p>
                                 Nuestra entidad cuenta con certificación ISO 9001, para que tengas una atención y servicio de alta calidad con el sello ISO.
@@ -481,7 +481,7 @@
                                             <p>
                                                 <span>Telefonos:</span>
                                                 <a href="tel://1234567920">
-													+57 7 5727234 - +57 317 74 57 899 - +57 315 38 04 018 </a>
+													 +57 317 74 57 899 - +57 315 38 04 018 </a>
                                             </p>
                                         </div>
                                     </div>
@@ -516,7 +516,7 @@
                 <div class="col-md-6 col-lg-3">
                     <div class="ftco-footer-widget mb-4">
                         <h2 class="logo">
-                            <img src="images/imagotipo_servitec_blanco.png" class="img-foot" alt="" />
+                            <img src="images/imagotipo_blanco.png" class="img-foot" alt="" />
                         </h2>
                         <p>
                             Somos una empresa comprometida con la alta eficiencia de los servicios prestados a nuestros clientes
