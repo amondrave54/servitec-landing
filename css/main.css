@@ -108,9 +108,10 @@
         .slider-servitec-seccion,
         .carousel-inner,
         .carousel-item {
-            height: 150px;
+           /* height: 150px;
             width: 1150px;
-            margin: auto;
+            margin: auto;*/
+            display: none;
         }
         
     }
