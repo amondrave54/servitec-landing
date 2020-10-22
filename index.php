@@ -506,7 +506,7 @@
         </div>
         <br /><br />
         <div class="row justify-content-center">
-            <<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31615.338152423246!2d-72.4953603312365!3d7.903711785593321!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e66450c50463ff5%3A0x86d09390fec377a!2sCl.%206%20%237%20Este-196%20a%207%20Este-10%2C%20C%C3%BAcuta%2C%20Norte%20de%20Santander!5e0!3m2!1ses!2sco!4v1603303093534!5m2!1ses!2sco" width="1100" height="250" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+            <<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31615.338152423246!2d-72.4953603312365!3d7.903711785593321!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e66450c50463ff5%3A0x86d09390fec377a!2sCl.%206%20%237%20Este-196%20a%207%20Este-10%2C%20C%C3%BAcuta%2C%20Norte%20de%20Santander!5e0!3m2!1ses!2sco!4v1603303093534!5m2!1ses!2sco" width="1100" height="250" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0" id="mapas"></iframe>
         </div>
     </section>
 

@@ -111,7 +111,9 @@
             margin: auto;*/
             display: none;
         }
-        
+        #mapas{
+            width: auto;
+        }
     }
 
     
