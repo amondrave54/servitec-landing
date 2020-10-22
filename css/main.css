@@ -86,7 +86,7 @@
         background-color: #f8f9fd!important;
     }
     
-    @media screen and (max-device-width: 480px) {
+    @media screen and (max-device-width: 1080px) {
         #quitar {
             display: none;
         }
@@ -114,3 +114,5 @@
         }
         
     }
+
+    
