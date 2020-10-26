@@ -9583,7 +9583,7 @@ h5,
 }
 
 .ftco-navbar-light {
-  background: #fff !important;
+  background: #000000 !important;
   z-index: 3;
   padding: 0;
 }
@@ -9607,7 +9607,7 @@ h5,
   padding-left: 23px;
   padding-right: 23px;
   font-weight: 500;
-  color: #000000;
+  color: #fff;
   text-transform: uppercase;
   letter-spacing: 1px;
   position: relative;
@@ -10291,7 +10291,7 @@ h5,
 .tabulation-2 .nav-pills .nav-item .nav-link {
   background: #fff;
   border-radius: 4px;
-  color: #000000;
+  color: #fff;
   font-weight: 600;
   -webkit-box-shadow: 0px 9px 21px -16px rgba(0, 0, 0, 0.15);
   -moz-box-shadow: 0px 9px 21px -16px rgba(0, 0, 0, 0.15);

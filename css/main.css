@@ -59,15 +59,15 @@
     }
     
     .logot {
-        height: 45px;
-        width: 170px;
+        height: 50px;
+        width: 180px;
     }
     
     .text-insta {
         size: 22px;
         line-height: 1.8;
         font-weight: 400;
-        color: black;
+        color: white;
         margin-right: 20px;
         margin-top: 10px;
         font-family: 'Poppins', Arial, sans-serif;
@@ -116,4 +116,12 @@
         }
     }
 
+.foo-seccion{
+    padding: 2em 0;
+}
+
+.foto{
+    height:350px;
+   
+}
     

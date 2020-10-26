@@ -99,7 +99,7 @@ h5,
 	}
 }
 .ftco-navbar-light {
-	background: $white !important;
+	background: $black!important;
 	z-index: 3;
 	padding: 0;
 	@include media-breakpoint-down(md) {
@@ -121,7 +121,7 @@ h5,
 				padding-left: 23px;
 				padding-right: 23px;
 				font-weight: 500;
-				color: $black;
+				color: $white;
 				text-transform: uppercase;
 				letter-spacing: 1px;
 				position: relative;
@@ -800,7 +800,7 @@ h5,
 			.nav-link {
 				background: $white;
 				border-radius: 4px;
-				color: $black;
+				color: $white;
 				font-weight: 600;
 				-webkit-box-shadow: 0px 9px 21px -16px rgba(0, 0, 0, 0.15);
 				-moz-box-shadow: 0px 9px 21px -16px rgba(0, 0, 0, 0.15);
