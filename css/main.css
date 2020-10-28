@@ -17,6 +17,7 @@
     .titulo-1 {
         color: black;
         size: 3em;
+        
     }
     
     .parrafo {
@@ -114,6 +115,10 @@
         #mapas{
             width: auto;
         }
+
+        .card-body{
+            height: 170px;
+        }
     }
 
 .foo-seccion{
@@ -121,7 +126,18 @@
 }
 
 .foto{
-    height:350px;
-   
+    height:350px;  
 }
-    
+
+.card-text{
+    color: black;
+    size: 15px;
+    text-align: center;
+    font-family: roboto-medium;
+}
+
+.borde{
+    border-color: #064acb;
+    border-radius: 4pt;
+    height: 120px;
+}
