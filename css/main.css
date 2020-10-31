@@ -119,6 +119,9 @@
         .card-body{
             height: 170px;
         }
+        .matar{
+            display: none;
+        }
     }
 
 .foo-seccion{
@@ -130,14 +133,35 @@
 }
 
 .card-text{
-    color: black;
-    size: 15px;
-    text-align: center;
+    color: white;
+    size: 19px;
+    text-align: justify;
     font-family: roboto-medium;
 }
 
 .borde{
-    border-color: #064acb;
-    border-radius: 4pt;
-    height: 120px;
+    height: 143px;
+    border:2px solid  #094293;
+    transition: transform .2s;
+}
+
+.bg-card{
+    background-color: #ffffff;
+    height: 139px;
+    
+}
+
+.bg-txt{
+    background-color: #094293;
+    
+}
+
+.img-card-1{
+    width: 70px;
+    height: 110px;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+.borde:hover{
+    transform: scale(1.1);
 }
