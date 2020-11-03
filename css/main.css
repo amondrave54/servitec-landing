@@ -117,9 +117,12 @@
         }
 
         .card-body{
-            height: 170px;
+            height: 130px;
         }
         .matar{
+            display: none;
+        }
+        .bg-card{
             display: none;
         }
     }
