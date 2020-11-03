@@ -168,3 +168,7 @@
 .borde:hover{
     transform: scale(1.1);
 }
+
+.bor{
+    border: 0.5px solid #094293;
+}
